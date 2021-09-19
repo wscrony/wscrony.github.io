@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Appointments"
+title: "How to make an appointment?"
 permalink: /appointments/
 author_profile: true
 ---
