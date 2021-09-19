@@ -5,9 +5,6 @@ permalink: /appointments/
 author_profile: true
 ---
 
-How to make an appointment?
-=====
-
 
 <div class="span9">
 	<h3>Calendar of Upcoming Events</h3>
