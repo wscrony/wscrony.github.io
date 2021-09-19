@@ -144,7 +144,7 @@ Invited Talks
 * Big Graph Data Processing, Distinguished Seminar, KT, Korea, October 2, 2013
 * Big Graph Data Processing, Data Streams, Korea, September 6, 2013
 * Big Graph Data Processing, Samsung Electronics, Korea, August 6, 2013
-* New Approach for Processing Ranked Subsequence Matching Based on Ranked Union, the 4th Int’lWorkshop with Mentors on Databases (iDB), Web and Information Management for Young Researchers, Nagoya, Japan, July 31, 2012
+* New Approach for Processing Ranked Subsequence Matching Based on Ranked Union, the 4th Int’l Workshop with Mentors on Databases (iDB), Web and Information Management for Young Researchers, Nagoya, Japan, July 31, 2012
 * Advanced Query Optimization Techniques in a Parallel Computing Environment, the 1st Int’l Workshop with Mentors on Databases (iDB), Web and Information Management for Young Researchers, Fukushima, Japan, September 21, 2008
 * Efficient Evaluation of Partial Match Queries for XML Documents Using Information Retrieval Techniques IBM Almaden Research Center, USA, April, 2006
 * Prefetching Based on the Type-Level Access Pattern in Object-Relational DBMSs
