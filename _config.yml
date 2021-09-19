@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Wook-Shin Han / Full Professor @ POSTECH"
+title                    : "Full Professor @ POSTECH"
 title_separator          : "-"
 name                     : &name "Wook-Shin Han"
 description              : &description "Computer Scientist"
