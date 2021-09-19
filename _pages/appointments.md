@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Appointments"
+#title: "Appointments"
 permalink: /appointments/
 author_profile: true
 ---
