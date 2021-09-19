@@ -5,7 +5,6 @@ permalink: /faq/
 author_profile: true
 ---
 
-
 1. Many graduadate students have been selected as full-paid interns in top-notch research labs in USA. We are trying to build a competitive environment for worst-class research.
 
 2. Please refer to [my blog site](https://blog.naver.com/lovehan/) about general knowledge and his philsophy about top-quality research and management of big data. 
