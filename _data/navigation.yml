@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Appointments"
-    url: /Appointments/
+    url: /appointments/
 
   - title: "Talks"
     url: /talks/    
