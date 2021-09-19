@@ -6,12 +6,15 @@ author_profile: true
 ---
 
 1. How to efficiently make an appointment with Prof. Wook-Shin Han?
-You can see my google calendar shared below, so you can make an appointment by sending a request for online or offline meetings. Due to the pandemic, I prefer to discussing through Zoom. 
+You can see my google calendar shared below, so you can make an appointment by sending a Google calendar appointment request for online or offline meetings. Due to the pandemic, I prefer to discussing through Zoom. 
 
-2. What to prepare?
+2. What to prepare for a meeting?
+	* a Zoom link (if you want to discuss online)
 	* Summary of the last meeting
 	* Purpose of the meeting and action items to discuss
 	* Future plan
+	* Transcript (if you want to apply for graduate student positions)
+
 
 <div class="span9">
 	<h3>Calendar of Upcoming Events</h3>

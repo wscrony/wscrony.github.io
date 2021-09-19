@@ -191,7 +191,9 @@ collections:
   appointments:
     output: true
     permalink: /:collection/:path/
-
+  faq:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -252,6 +254,15 @@ defaults:
   - scope:
       path: ""
       type: appointments
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _faq
+  - scope:
+      path: ""
+      type: faq
     values:
       layout: single
       author_profile: true
