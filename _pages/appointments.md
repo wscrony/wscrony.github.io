@@ -9,7 +9,9 @@ author_profile: true
 You can see my google calendar shared below, so you can make an appointment by sending a request for online or offline meetings. Due to the pandemic, I prefer to discussing through Zoom. 
 
 2. What to prepare?
-
+	* Summary of the last meeting
+	* Purpose of the meeting and action items to discuss
+	* Future plan
 
 <div class="span9">
 	<h3>Calendar of Upcoming Events</h3>
