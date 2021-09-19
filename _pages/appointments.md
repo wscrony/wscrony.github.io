@@ -5,6 +5,11 @@ permalink: /appointments/
 author_profile: true
 ---
 
+1. How to efficiently make an appointment with Prof. Wook-Shin Han?
+You can see my google calendar shared below, so you can make an appointment by sending a request for online or offline meetings. Due to the pandemic, I prefer to discussing through Zoom. 
+
+2. What to prepare?
+
 
 <div class="span9">
 	<h3>Calendar of Upcoming Events</h3>
