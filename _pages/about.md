@@ -12,10 +12,11 @@ I lead the [database group](http://dblab.postech.ac.kr) @ POSTECH. I am currentl
 Information Affairs in POSTECH, also leading [the BK21 center](http://ai.postech.ac.kr/) for AI. I obtained his Ph.D degree from KAIST in 2001. His primary research efforts have been devoted to developing new techniques in DBMS "engine research." I has developed an object-relational DBMS supporting multiple language bindings. He has also developed the tight coupling technology of DBMS with IR features during his Ph.D. study. At the IBM Almaden Research Center, he has developed progressive query optimization in the parallel DB2 as a postdoc. I also invented the new concept of "parallelizing query optimization" for faster query compilation by exploiting multi-core architecture. Our group developed two systems called TurboGraph++ and TurboFlux for trillion-scale graph analytics and ultrafast continuous subgraph matching, respectively. I extensively published at major international journals and conferences, including SIGMOD, VLDB, KDD, ICDE, WWW, IEEE Transactions on Knowledge and Data Engineering (TKDE), and VLDB Journal. I regularly serves as a PC member for SIGMOD, VLDB, and ICDE. I serves/served as an associate editor of several international journals including the VLDB Journal and IEEE TKDE.
 
 News:
-======
+```tex
 <div class="list-group">
   <a href="#!" class="list-group-item list-group-item-action list-group-item-secondary">Dapibus ac facilisis in</a>
 </div>
+```
 
 Professional Experience
 ======
