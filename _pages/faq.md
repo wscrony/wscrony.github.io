@@ -14,7 +14,7 @@ author_profile: true
    * [What kind of people do we need?](https://blog.naver.com/lovehan/220388845800)
    * There are several excellent research results from undergrads. For exmaple,  one student has publish a paper in SIGMOD, and there are several students who have won the Samsung Human Tech Paper awards.
    
-4. If you are currently studying abroad and looking for technical research personnel positions, please contact Professor Han. (해외 유학중에 전문연구요원으로 연구를 원하는 분도 한욱신 교수에게 메일 주시기 바랍니다.)
+4. If you are currently studying abroad and looking for technical research personnel positions, please email Professor Han. (해외 유학중에 전문연구요원으로 연구를 원하는 분도 한욱신 교수에게 메일 주시기 바랍니다.)
 
 
-5. We are also looking for excellent postdocs and research engineers with strong publication records. Please send emails if you are interested.
+5. We are also looking for excellent postdocs and research engineers with strong publication records. Please email Professor Han if you are interested.
