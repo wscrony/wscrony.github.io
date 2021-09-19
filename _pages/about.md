@@ -13,12 +13,9 @@ Information Affairs in POSTECH, also leading [the BK21 center](http://ai.postech
 
 News:
 ======
-```yaml
-
-
-# * This is a test
-===
-```
+<div class="list-group">
+  <a href="#!" class="list-group-item list-group-item-action list-group-item-secondary">Dapibus ac facilisis in</a>
+</div>
 
 Professional Experience
 ======
