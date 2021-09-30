@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I lead the [database group](http://dblab.postech.ac.kr) at POSTECH. I am currently a Full Professor of Department of Computer Science and Engineering at POSTECH. I am the vice president of Office of Academic
-Information Affairs in POSTECH, also leading [the BK21 center](http://ai.postech.ac.kr/) for AI. I obtained my Ph.D degree from KAIST in 2001. My primary research efforts have been devoted to developing new techniques in DBMS "engine research." I has developed an object-relational DBMS supporting multiple language bindings. I has also developed the tight coupling technology of DBMS with IR features during my Ph.D. study. At the IBM Almaden Research Center, I has developed progressive query optimization in the parallel DB2 as a postdoc. I also invented the new concept of "parallelizing query optimization" for faster query compilation by exploiting multi-core architecture. Our group recently developed three systems called TurboGraph++(SIGMOD2018), iTurboGraph (SIGMOD2021) and TurboFlux(SIGMOD2018) for trillion-scale, incremental graph analytics. I regularly serve as a PC member for SIGMOD, VLDB, and ICDE. I also serve/served as an associate editor of several international journals including the VLDB Journal, IEEE TKDE, and SIGMOD Record.
+I lead the [database group](http://dblab.postech.ac.kr) at POSTECH. I am currently the Vice President for the Office of Academic Information Affairs, a team leader for [the Brain Korea 21 Program for Leading Universities & Students (BK 21) project for AI](http://ai.postech.ac.kr/sub0801), and a Full Professor in the Department of Computer Science and Engineering at POSTECH. I obtained my Ph.D degree from KAIST in 2001. My primary research efforts have been devoted to developing new techniques in DBMS "engine research." I has developed an object-relational DBMS supporting multiple language bindings. I has also developed the tight coupling technology of DBMS with IR features during my Ph.D. study. At the IBM Almaden Research Center, I has developed progressive query optimization in the parallel DB2 as a postdoc, which was adopted as adaptive query optimization by distributed DBMSs, including Spark. I also invented the new concept of "parallelizing query optimization" for faster query compilation by exploiting multi-core architecture. Our group recently developed three systems called TurboGraph++ (SIGMOD2018), iTurboGraph (SIGMOD2021) and TurboFlux (SIGMOD2018) for trillion-scale, incremental graph analytics. I regularly serve as a PC member for SIGMOD, VLDB, and ICDE. I also serve/served as an associate editor of several international journals including the VLDB Journal, IEEE TKDE, and SIGMOD Record.
 
 Professional Experience
 ======
@@ -35,7 +34,7 @@ Professional Activities
 * Associate Editor, [SIGMOD RECORD](https://sigmodrecord.org/), 2021.7 - Present
 * Associate Editor, [PVLDB 2022](http://vldb.org/pvldb/vol15-review-board/), 2021.4 - 2022.3
 * Associate Editor, [VLDB Journal](https://www.springer.com/journal/778), Sept. 2015 - Present
-* Associate Editor, [PVLDB 2018](http://vldb2)018.lncc.br/conference-officers.html), 2017.4 - 2018.7
+* Associate Editor, [PVLDB 2018](http://vldb2018.lncc.br/conference-officers.html), 2017.4 - 2018.7
 * Associate Editor, [Information Sciences](https://www.journals.elsevier.com/information-sciences/editorial-board), 2013 - Present
 * Associate Editor, IEEE Transactions on Knowledge and Data Engineering, 2009 - 2013
 * Associate Editor, Journal of Computing Science and Engineering (JCSE), 2007 - Present
@@ -70,7 +69,7 @@ Professional Activities
 Selected PC Memberships
 ======
 * SIGMOD: 2022, 2021, 2018, 2016, 2014, 2013, 2012, 2010 (demo)
-* VLDB: 2020, 2019, 2016, 2015, 2014, 2010, 2010 (demo), 2009
+* VLDB: 2021, 2020, 2019, 2016, 2015, 2014, 2010, 2010 (demo), 2009
 * KDD: 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014
 * ICDE: 2022, 2021, 2019 (industrial), 2014, 2012, 2011, 2010, 2003
 * EDBT: 2018, 2017
