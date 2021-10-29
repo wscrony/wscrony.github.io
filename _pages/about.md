@@ -29,6 +29,10 @@ Professional Experience
 
 Professional Activities
 ======
+
+## Endowment/Steering Members
+* Trustee: The VLDB Endowment, 2021-
+
 ## Journal Editors ##
 * Associate Editor, [SIGMOD RECORD](https://sigmodrecord.org/), 2021.7 - Present
 * Associate Editor, [PVLDB 2022](http://vldb.org/pvldb/vol15-review-board/), 2021.4 - 2022.3
