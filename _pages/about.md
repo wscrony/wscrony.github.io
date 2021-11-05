@@ -31,7 +31,7 @@ Professional Activities
 ======
 
 ## Endowment/Steering Members
-* Trustee: The VLDB Endowment, 2021-
+* Trustee: The VLDB Endowment, 2022-2028
 
 ## Journal Editors ##
 * Associate Editor, [SIGMOD RECORD](https://sigmodrecord.org/), 2021.7 - Present
