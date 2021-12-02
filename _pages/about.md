@@ -101,6 +101,7 @@ Research Interests
 
 Honors
 ======
+* Proud Postechchian Award in Research (Best Resercher Award) in POSTECH (W3M), 2021
 * Sigmod 2021 Distinguished PC member, 2021
 * VLDB Distinguished Associate Editor Award, 2018
 * Oracle External Research Office Award (unrestricted gift: $100,000), 2018
