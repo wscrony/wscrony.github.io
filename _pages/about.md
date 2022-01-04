@@ -68,7 +68,7 @@ Professional Activities
 * Tutorial Co-chair, the 17th International Conference on Database Systems for Advanced Applications (DASFAA), Busan, Korea, April 2012
 * Workshop Co-chair, the 13th International Conference on Asia-Pacific Web Conference (APWeb), Beijing, China, April 2011
 * Program Committee Co-chair, the 12th International Asia-Pacific Web Conference (APWeb), Busan, Korea, April 2010
-* Workshop Co-chair, ACM 18th Conference on Information and Knowledge Management (ACM CIKM), Hong Kong, October 2009
+* Workshop Co-chair, ACM 18th Conference on Information and Knowledge Management (ACM CIKM), Hong Kong, October 2009 
 
 Selected PC Memberships
 ======
