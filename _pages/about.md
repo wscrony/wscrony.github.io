@@ -48,6 +48,7 @@ Professional Activities
 * Editorial Board Member, KIISE Computing Practices and Letters, 2011 - Present
 
 ## Organizers ##
+* Vice Chair, the 2022 IEEE International Conference on Big Data (BigData), Osaka, Japan, December 2022
 * Demo Co-Chair, the 26th International Conference on Database Systems for Advanced Applications (DASFAA), Taiwan, April 2021
 * Senior Program Committee Member, the 28th ACM International Conference on Information and Knowledge Management (CIKM), Beijing, China, November 2019
 * PC Area Vice Chair, the 35th IEEE International Conference on Data Engineering (ICDE), Macau SAR, China, April 2019
