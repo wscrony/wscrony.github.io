@@ -38,7 +38,7 @@ Professional Activities
 * Associate Editor, [PVLDB 2023](http://vldb.org/pvldb/vol16-review-board/), 2022.4 - 2023.3
 * Associate Editor, [SIGMOD RECORD](https://sigmodrecord.org/), 2021.7 - Present
 * Associate Editor, [PVLDB 2022](http://vldb.org/pvldb/vol15-review-board/), 2021.4 - 2022.3
-* Associate Editor, [VLDB Journal](https://www.springer.com/journal/778), Sept. 2015 - 2022.9
+* Associate Editor, [VLDB Journal](https://www.springer.com/journal/778), 2015.9 - 2022.9
 * Associate Editor, [PVLDB 2018](http://vldb2018.lncc.br/conference-officers.html), 2017.4 - 2018.7
 * Associate Editor, [Information Sciences](https://www.journals.elsevier.com/information-sciences/editorial-board), 2013 - 2023
 * Associate Editor, IEEE Transactions on Knowledge and Data Engineering, 2009 - 2013
