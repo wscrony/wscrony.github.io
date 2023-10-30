@@ -38,9 +38,9 @@ Professional Activities
 * Associate Editor, [PVLDB 2023](http://vldb.org/pvldb/vol16-review-board/), 2022.4 - 2023.3
 * Associate Editor, [SIGMOD RECORD](https://sigmodrecord.org/), 2021.7 - Present
 * Associate Editor, [PVLDB 2022](http://vldb.org/pvldb/vol15-review-board/), 2021.4 - 2022.3
-* Associate Editor, [VLDB Journal](https://www.springer.com/journal/778), Sept. 2015 - Present
+* Associate Editor, [VLDB Journal](https://www.springer.com/journal/778), Sept. 2015 - 2022.9
 * Associate Editor, [PVLDB 2018](http://vldb2018.lncc.br/conference-officers.html), 2017.4 - 2018.7
-* Associate Editor, [Information Sciences](https://www.journals.elsevier.com/information-sciences/editorial-board), 2013 - Present
+* Associate Editor, [Information Sciences](https://www.journals.elsevier.com/information-sciences/editorial-board), 2013 - 2023
 * Associate Editor, IEEE Transactions on Knowledge and Data Engineering, 2009 - 2013
 * Associate Editor, Journal of Computing Science and Engineering (JCSE), 2007 - Present
 * Associate Editor, IEICE Transactions on Information and Systems, 2007 - 2011.5
@@ -49,7 +49,11 @@ Professional Activities
 * Editorial Board Member, KIISE Computing Practices and Letters, 2011 - Present
 
 ## Organizers ##
-* Vice Chair, the 2022 IEEE International Conference on Big Data (BigData), Osaka, Japan, December 2022
+* Ph.D Workshop Chair, the 50th 50th International Conference on Very Large Databases, Guangzhou, China, August 2024
+* PC Co-Chair, the 28th International Conference on Database System for Advanced Applications (DASFAA), China, April 2023
+*	Area Chair, the 39th IEEE International Conference on Data Engineering (ICDE), Ottawa, Canada, July 2023
+*	Tutorial Co-Chair, the 39th IEEE International Conference on Data Engineering (ICDE), Ottawa, Canada, July 2023
+* Vice Program Chair, the 2022 IEEE International Conference on Big Data (BigData), Osaka, Japan, December 2022
 * Demo Co-Chair, the 26th International Conference on Database Systems for Advanced Applications (DASFAA), Taiwan, April 2021
 * Senior Program Committee Member, the 28th ACM International Conference on Information and Knowledge Management (CIKM), Beijing, China, November 2019
 * PC Area Vice Chair, the 35th IEEE International Conference on Data Engineering (ICDE), Macau SAR, China, April 2019
@@ -74,7 +78,7 @@ Professional Activities
 
 Selected PC Memberships
 ======
-* SIGMOD: 2023, 2022, 2021, 2018, 2016, 2014, 2013, 2012, 2010 (demo)
+* SIGMOD: 2024, 2023, 2022, 2021, 2018, 2016, 2014, 2013, 2012, 2010 (demo)
 * VLDB: 2021, 2020, 2019, 2016, 2015, 2014, 2010, 2010 (demo), 2009
 * KDD: 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014
 * ICDE: 2022, 2021, 2019 (industrial), 2014, 2012, 2011, 2010, 2003
@@ -105,6 +109,7 @@ Research Interests
 Honors
 ======
 * Proud Postechchian Award in Research (Best Resercher Award) in POSTECH, 2021
+* Excellent Research Achievement Award from POSTECH (2019, 2017)
 * Sigmod 2021 Distinguished PC member, 2021
 * VLDB Distinguished Associate Editor Award, 2018
 * Oracle External Research Office Award (unrestricted gift: $100,000), 2018
