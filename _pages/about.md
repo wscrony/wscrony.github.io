@@ -49,7 +49,7 @@ Professional Activities
 * Editorial Board Member, KIISE Computing Practices and Letters, 2011 - Present
 
 ## Organizers ##
-* Ph.D Workshop Chair, the 50th 50th International Conference on Very Large Databases, Guangzhou, China, August 2024
+* Ph.D Workshop Chair, the 50th International Conference on Very Large Databases (VLDB), Guangzhou, China, August 2024
 * PC Co-Chair, the 28th International Conference on Database System for Advanced Applications (DASFAA), China, April 2023
 *	Area Chair, the 39th IEEE International Conference on Data Engineering (ICDE), Ottawa, Canada, July 2023
 *	Tutorial Co-Chair, the 39th IEEE International Conference on Data Engineering (ICDE), Ottawa, Canada, July 2023
