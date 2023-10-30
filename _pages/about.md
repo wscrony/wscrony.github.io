@@ -13,14 +13,14 @@ I lead the [database group](http://dslab.postech.ac.kr) at POSTECH. I am current
 
 Professional Experience
 ======
-* 2020.9- present, Team Leader, the BK21 center for AI, POSTECH
-* 2013.7- present, Full Professor, Dept. of Computer Science and Engineering/Dept. of Creative IT Engineering, POSTECH
-* 2021.9- 2023.8, Vice President of Office of Academic Information Affairs, POSTECH
-* 2003.3- 2013.7, Associate Professor (Tenured), Computer Engineering Department, Kyungpook National University.
-* 2008.1- 2012.8, Director, Institute of IT-Gifted Youth, Kyungpook National University.
-* 2005.8- 2006.8, Post-Doctoral Fellow, IBM Almaden Research Center
+* 2020.9 - present, Team Leader, the BK21 center for AI, POSTECH
+* 2013.7 - present, Full Professor, Dept. of Computer Science and Engineering/Dept. of Creative IT Engineering, POSTECH
+* 2021.9 - 2023.8, Vice President of Office of Academic Information Affairs, POSTECH
+* 2003.3 - 2013.7, Associate Professor (Tenured), Computer Engineering Department, Kyungpook National University.
+* 2008.1 - 2012.8, Director, Institute of IT-Gifted Youth, Kyungpook National University.
+* 2005.8 - 2006.8, Post-Doctoral Fellow, IBM Almaden Research Center
 (worked on progressive optimization in the parallel DB2 DBMS).
-* 2002.9- 2003.2, Research Professor, Advanced Information Technology Research Center, KAIST.
+* 2002.9 - 2003.2, Research Professor, Advanced Information Technology Research Center, KAIST.
 * 2002.7, Visiting Scholar, Software Technology Lab, HP Labs.
 * 2001.9 - 2002.8, Post-Doctoral Fellow, Advanced Information Technology Research Center, KAIST.
 * 2001.7 - 2001.8, Visiting Student, Software Technology Lab, HP Labs.
