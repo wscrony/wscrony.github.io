@@ -40,7 +40,7 @@ Professional Activities
 * Associate Editor, [PVLDB 2022](http://vldb.org/pvldb/vol15-review-board/), 2021.4 - 2022.3
 * Associate Editor, [VLDB Journal](https://www.springer.com/journal/778), 2015.9 - 2022.9
 * Associate Editor, [PVLDB 2018](http://vldb2018.lncc.br/conference-officers.html), 2017.4 - 2018.7
-* Associate Editor, [Information Sciences](https://www.journals.elsevier.com/information-sciences/editorial-board), 2013 - 2023
+* Associate Editor, [Information Sciences](https://www.journals.elsevier.com/information-sciences/editorial-board), 2013 - 2023.9
 * Associate Editor, IEEE Transactions on Knowledge and Data Engineering, 2009 - 2013
 * Associate Editor, Journal of Computing Science and Engineering (JCSE), 2007 - Present
 * Associate Editor, IEICE Transactions on Information and Systems, 2007 - 2011.5
@@ -49,6 +49,7 @@ Professional Activities
 * Editorial Board Member, KIISE Computing Practices and Letters, 2011 - Present
 
 ## Organizers ##
+* General Co-Chair, the 45th ACM International Conference on Management of Data (SIGMOD), Seoul, Korea, June, 2028
 * Ph.D Workshop Chair, the 50th International Conference on Very Large Databases (VLDB), Guangzhou, China, August 2024
 * PC Co-Chair, the 28th International Conference on Database System for Advanced Applications (DASFAA), China, April 2023
 *	Area Chair, the 39th IEEE International Conference on Data Engineering (ICDE), Ottawa, Canada, July 2023
