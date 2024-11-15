@@ -49,7 +49,7 @@ Professional Activities
 * Editorial Board Member, KIISE Computing Practices and Letters, 2011 - Present
 
 ## Organizers ##
-* General Co-Chair, the 45th ACM International Conference on Management of Data (SIGMOD), Seoul, Korea, June, 2028
+* General Co-Chair, the 54th ACM International Conference on Management of Data (SIGMOD), Seoul, Korea, June, 2028
 * Ph.D Workshop Chair, the 50th International Conference on Very Large Databases (VLDB), Guangzhou, China, August 2024
 * PC Co-Chair, the 28th International Conference on Database System for Advanced Applications (DASFAA), China, April 2023
 *	Area Chair, the 39th IEEE International Conference on Data Engineering (ICDE), Ottawa, Canada, July 2023
