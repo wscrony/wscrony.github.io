@@ -49,7 +49,7 @@ Professional Activities
 * Editorial Board Member, KIISE Computing Practices and Letters, 2011 - Present
 
 ## Organizers ##
-* General Co-Chair, the 54th ACM International Conference on Management of Data (SIGMOD), Seoul, Korea, June, 2028
+* General Co-Chair, the 54th ACM International Conference on Management of Data (SIGMOD), Seoul, Korea, June 2028
 * Ph.D Workshop Chair, the 50th International Conference on Very Large Databases (VLDB), Guangzhou, China, August 2024
 * PC Co-Chair, the 28th International Conference on Database System for Advanced Applications (DASFAA), China, April 2023
 *	Area Chair, the 39th IEEE International Conference on Data Engineering (ICDE), Ottawa, Canada, July 2023
@@ -121,7 +121,7 @@ Honors
 * Oracle External Research Office Award (unrestricted gift: $90,000), 2014
 * Best paper award, The Fifth International Conference on Emerging
 * Databases-Technologies,Applications, and Theory (EDB 2013), August 2013
-* 논문공헌상 SILVER, The Korean Institute of Information Scentists and Engineers, June. 2012
+* 논문공헌상 SILVER, The Korean Institute of Information Scentists and Engineers, June 2012
 * VLDB 2010, selected as best of VLDB 2010 (iGraph paper)
 * ACM CIKM Distinguished Service Award, 2009
 * Best Demostration Award: IEEE Int'l Conf. on Data Engineering (ICDE), Tokyo, Japan, Apr. 2005
@@ -161,6 +161,6 @@ Invited Talks
 * Big Graph Data Processing, Samsung Electronics, Korea, August 6, 2013
 * New Approach for Processing Ranked Subsequence Matching Based on Ranked Union, the 4th Int’l Workshop with Mentors on Databases (iDB), Web and Information Management for Young Researchers, Nagoya, Japan, July 31, 2012
 * Advanced Query Optimization Techniques in a Parallel Computing Environment, the 1st Int’l Workshop with Mentors on Databases (iDB), Web and Information Management for Young Researchers, Fukushima, Japan, September 21, 2008
-* Efficient Evaluation of Partial Match Queries for XML Documents Using Information Retrieval Techniques IBM Almaden Research Center, USA, April, 2006
+* Efficient Evaluation of Partial Match Queries for XML Documents Using Information Retrieval Techniques IBM Almaden Research Center, USA, April 2006
 * Prefetching Based on the Type-Level Access Pattern in Object-Relational DBMSs
 IBM Almaden Research Lab., USA, July 2001
