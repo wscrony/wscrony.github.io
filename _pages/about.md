@@ -35,6 +35,7 @@ Professional Activities
 * Trustee: The VLDB Endowment, 2022-2028
 
 ## Journal Editors ##
+* Associate Editor, ACM SIGMOD 2027, 2025.6 - 2027.6
 * Associate Editor, PVLDB 2026, 2025.4 - 2026.3
 * Associate Editor, [PVLDB 2023](http://vldb.org/pvldb/vol16-review-board/), 2022.4 - 2023.3
 * Associate Editor, [SIGMOD RECORD](https://sigmodrecord.org/), 2021.7 - Present
