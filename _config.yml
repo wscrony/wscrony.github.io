@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Distinguished University Professor @ POSTECH"
+title                    : "POSTECH Distinguished Professor @ POSTECH"
 title_separator          : "-"
 name                     : &name "Wook-Shin Han"
 description              : &description "Computer Scientist"
