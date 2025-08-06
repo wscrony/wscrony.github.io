@@ -13,8 +13,8 @@ I lead the [data system group](http://dslab.postech.ac.kr) at POSTECH. I am curr
 
 Professional Experience
 ======
-* 2020.9 - present, Director, the BK21 center for AI, POSTECH
 * 2013.7 - present, POSTECH Distinguished Professor, Dept. of Computer Science and Engineering/Dept. of Creative IT Engineering, POSTECH
+* 2020.9 - present, Director, the BK21 center for AI, POSTECH
 * 2021.9 - 2023.8, Vice President of Office of Academic Information Affairs, POSTECH
 * 2003.3 - 2013.7, Associate Professor (Tenured), Computer Engineering Department, Kyungpook National University.
 * 2008.1 - 2012.8, Director, Institute of IT-Gifted Youth, Kyungpook National University.
