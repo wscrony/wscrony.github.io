@@ -5,9 +5,9 @@ permalink: /faq/
 author_profile: true
 ---
 
-1. Many graduadate students have been selected as full-paid interns in top-notch research labs in USA. We are trying to build a competitive environment for worst-class research.
+1. Many graduadate students have been selected as full-paid interns in top-notch research labs in USA. We are trying to build a competitive environment for world-class research.
 
-2. Please refer to [my blog site](https://blog.naver.com/lovehan/) about general knowledge and my philsophy about top-quality research and management of big data. 
+2. Please refer to [my blog site](https://blog.naver.com/lovehan/) about general knowledge and my philosophy about top-quality research and management of big data. 
 
 3. We are always seeking for self-motivated students who want to be world-class reseachers/professors.
    * [Why do you need to participate in research in our lab as undergrads?](https://blog.naver.com/lovehan/220441388780)
