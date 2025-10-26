@@ -111,6 +111,8 @@ Research Interests
 
 Honors
 ======
+* Sigmod 2025 Distinguished PC member, 2025
+* Neurips Top Reviewer, 2025
 * POSTECH Distinguished Professor from POSTECH, 2025
 * Proud Postechchian Award in Research (Best Resercher Award) in POSTECH, 2021
 * Excellent Research Achievement Awards from POSTECH (2019, 2017)
