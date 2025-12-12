@@ -32,7 +32,7 @@ Professional Activities
 ======
 
 ## Endowment/Steering Members
-* Trustee: The VLDB Endowment, 2022 - 2028
+* Trustee: The VLDB Endowment, 2022 - 2027
 
 ## General Members
 * Member: The National Academy of Engineering of Korea, 2025 - present
