@@ -91,6 +91,7 @@ Selected PC Memberships
 
 Keynote Speeches
 ======
+* Directions for Korea-US AI Cooperation through the Global AI Frontier Lab, Global AI Frontier Lab, New York, NY, Sep. 24, 2024
 * Natural Language Exploration with Relational Databases in Chatbot, the 47th ACM International Conference on Management of Data (ACM SIGMOD 2021), Shannxi, China, June 24, 2021 (mini keynote)
 * Big Graph Data Processing, the 19th International Conference on Database Systems for Advanced Applications (DASFAA), Bali, Indonesia, April 21, 2014
 
