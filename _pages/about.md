@@ -32,7 +32,10 @@ Professional Activities
 ======
 
 ## Endowment/Steering Members
-* Trustee: The VLDB Endowment, 2022-2028
+* Trustee: The VLDB Endowment, 2022 - 2028
+
+## General Members
+* Member: The National Academy of Engineering of Korea, 2025 - present
 
 ## Journal Editors ##
 * Associate Editor, ACM SIGMOD 2027, 2025.6 - 2027.6
