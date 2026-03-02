@@ -120,7 +120,7 @@ Research Interests
 Honors
 ======
 * National Academy of Engineering of Korea (NAEK) member, 2025
-* Sigmod 2025 Distinguished PC member, 2025
+* VLDB 2025 Distinguished Reviewer Award, 2025
 * Neurips Top Reviewer, 2025
 * POSTECH Distinguished Professor from POSTECH, 2025
 * Proud Postechchian Award in Research (Best Resercher Award) in POSTECH, 2021
