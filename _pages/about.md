@@ -98,6 +98,7 @@ Selected PC Memberships
 
 Keynote Speeches
 ======
+* The Long Journey from Subgraphs to Autonomous Agents: Evaluation of Graph Intelligence, the 31st International Conference on Database Systems for Advanced Applications (DASFAA), Jeju, Korea, April 29, 2026.
 * Directions for Korea-US AI Cooperation through the Global AI Frontier Lab, Global AI Frontier Lab, New York, NY, Sep. 24, 2024
 * Natural Language Exploration with Relational Databases in Chatbot, the 47th ACM International Conference on Management of Data (ACM SIGMOD 2021), Shannxi, China, June 24, 2021 (mini keynote)
 * Big Graph Data Processing, the 19th International Conference on Database Systems for Advanced Applications (DASFAA), Bali, Indonesia, April 21, 2014
@@ -145,6 +146,7 @@ Honors
 * The Marquis' Who's Who in the World
 
 Invited Talks
+* The Long Journey from Subgraphs to Autonomous Agents: Evaluation of Graph Intelligence, Data Intelligence Workshop, Korea, April 26, 2026.
 * Towards Scalable and Incremental Graph Processing Engines, Ebay, USA, Sept. 8, 2021
 * DualSim: Parallel Subgraph Enumeration in a Massive Graph on a Single Machine, Korea University, Korea, June 30 - July 1, 2017
 * DualSim: Parallel Subgraph Enumeration in a Massive Graph on a Single Machine, Kyung Hee University, Korea, March 3, 2017
