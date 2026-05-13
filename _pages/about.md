@@ -121,6 +121,7 @@ Research Interests
 
 Honors
 ======
+* ICML Gold Reviewer, 2026
 * National Academy of Engineering of Korea (NAEK) member, 2025
 * VLDB 2025 Distinguished Reviewer Award, 2025
 * Neurips Top Reviewer, 2025
