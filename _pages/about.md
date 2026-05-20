@@ -121,6 +121,7 @@ Research Interests
 
 Honors
 ======
+* Sigmod 2026 Distinguished PC Member, 2026
 * Sigmod 2026 Distinguished Reviewer, 2026
 * ICML 2026 Gold Reviewer, 2026
 * National Academy of Engineering of Korea (NAEK) member, 2025
