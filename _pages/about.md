@@ -95,6 +95,10 @@ Selected PC Memberships
 * EDBT: 2027, 2018, 2017
 * WWW: 2019, 2013, 2012, 2011
 * CIKM: 2016, 2013 (demo), 2012, 2011,2009
+* ACL: 2025
+* EMNLP: 2025
+* NeurIPS: 2026
+* ICML: 2026
 
 Keynote Speeches
 ======
