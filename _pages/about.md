@@ -97,7 +97,7 @@ Selected PC Memberships
 * CIKM: 2016, 2013 (demo), 2012, 2011,2009
 * [ACL](https://www.aclweb.org/): 2025
 * [EMNLP](https://aclanthology.org/venues/emnlp/): 2025
-* [NeurIPS](https://nips.cc/): 2026
+* [NeurIPS](https://nips.cc/): 2026, 2025
 * [ICML](https://icml.cc/): 2026
 
 Keynote Speeches
