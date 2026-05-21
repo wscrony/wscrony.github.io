@@ -10,24 +10,24 @@ redirect_from:
 
 <!-- I lead the [data system group](http://dblab.postech.ac.kr) at POSTECH. I am currently the Vice President for the Office of Academic Information Affairs, a team leader (단장) for [the Brain Korea 21 Program //-->
 <!-- I lead the [data system group](http://dslab.postech.ac.kr) at POSTECH. I am currently a POSTECH Distinguished Professor (포스텍 정년연장 석좌교수) and a director (단장) for [the Brain Korea 21 Program for Leading Universities & Students (BK 21) project for AI](http://ai.postech.ac.kr/sub0801) in the Department of Computer Science and Engineering at POSTECH. I obtained my Ph.D degree from KAIST in 2001. My primary research efforts have been devoted to developing new techniques in DBMS "engine research." I has developed an object-relational DBMS supporting multiple language bindings. I has also developed the tight coupling technology of DBMS with IR features during my Ph.D. study. At the IBM Almaden Research Center, I has developed progressive query optimization in the parallel DB2 as a postdoc, which was adopted as adaptive query optimization by distributed DBMSs, including Spark. I also invented the new concept of "parallelizing query optimization" for faster query compilation by exploiting multi-core architecture. Our group recently developed three systems called TurboGraph++ (SIGMOD2018), iTurboGraph (SIGMOD2021) and TurboFlux (SIGMOD2018) for trillion-scale, incremental graph analytics. I regularly serve as a PC member for SIGMOD, VLDB, and ICDE. I also serve/served as an associate editor of several international journals including the VLDB Journal, IEEE TKDE, and SIGMOD Record. //-->
-I am currently a POSTECH Distinguished Professor and Director of [the Brain Korea 21 (BK21) AI Project](http://ai.postech.ac.kr/sub0801) in the Department of Computer Science and Engineering at POSTECH. I received my Ph.D. from KAIST in 2001. My primary research efforts have been devoted to developing new techniques in core DBMS engine research. Early in my career, I developed an object-relational DBMS supporting multiple language bindings, and during my Ph.D. studies, I pioneered the tight coupling of DBMS with Information Retrieval (IR) features.<br>
-As a postdoc at the IBM Almaden Research Center, I developed progressive query optimization for parallel DB2, a technique later adopted as adaptive query optimization by distributed DBMSs, including Spark. I also invented the novel concept of "parallelizing query optimization" for faster query compilation by exploiting multi-core architectures. Recently, our group developed three systems—TurboGraph++ (SIGMOD 2018), iTurboGraph (SIGMOD 2021), and TurboFlux (SIGMOD 2018)—for trillion-scale, incremental graph analytics.<br>
-I regularly serve as a PC member for premier conferences such as SIGMOD, VLDB, and ICDE. I have also served as an Associate Editor for several international journals, including The VLDB Journal, IEEE TKDE, and SIGMOD Record. Currently, I serve as a Trustee for the VLDB Endowment and will serve as the General Co-Chair for SIGMOD 2028.
+I am currently a [POSTECH](https://www.postech.ac.kr/eng/) Distinguished Professor and Director of [the Brain Korea 21 (BK21) AI Project](http://ai.postech.ac.kr/sub0801) in the Department of Computer Science and Engineering at POSTECH. I received my Ph.D. from [KAIST](https://www.kaist.ac.kr/en/) in 2001. My primary research efforts have been devoted to developing new techniques in core DBMS engine research. Early in my career, I developed an object-relational DBMS supporting multiple language bindings, and during my Ph.D. studies, I pioneered the tight coupling of DBMS with Information Retrieval (IR) features.<br>
+As a postdoc at the [IBM Almaden Research Center](https://research.ibm.com/labs/almaden), I developed progressive query optimization for parallel [DB2](https://www.ibm.com/products/db2), a technique later adopted as adaptive query optimization by distributed DBMSs, including [Spark](https://spark.apache.org/). I also invented the novel concept of "parallelizing query optimization" for faster query compilation by exploiting multi-core architectures. Recently, our group developed three systems—[TurboGraph++](https://scholar.google.co.kr/citations?user=Jp_w2IwAAAAJ&hl=en) (SIGMOD 2018), [iTurboGraph](https://scholar.google.co.kr/citations?user=Jp_w2IwAAAAJ&hl=en) (SIGMOD 2021), and [TurboFlux](https://scholar.google.co.kr/citations?user=Jp_w2IwAAAAJ&hl=en) (SIGMOD 2018)—for trillion-scale, incremental graph analytics.<br>
+I regularly serve as a PC member for premier conferences such as [SIGMOD](https://sigmod.org/), [VLDB](https://vldb.org/), and ICDE. I have also served as an Associate Editor for several international journals, including [The VLDB Journal](https://www.springer.com/journal/778), [IEEE TKDE](https://www.computer.org/csdl/journal/tk), and [SIGMOD Record](https://sigmodrecord.org/). Currently, I serve as a Trustee for the [VLDB Endowment](https://vldb.org/) and will serve as the General Co-Chair for SIGMOD 2028.
 
 Professional Experience
 ======
-* 2013.7 - present, POSTECH Distinguished Professor, Dept. of Computer Science and Engineering/Dept. of Creative IT Engineering, POSTECH
-* 2020.9 - present, Director, the BK21 center for AI, POSTECH
+* 2013.7 - present, POSTECH Distinguished Professor, Dept. of Computer Science and Engineering/Dept. of Creative IT Engineering, [POSTECH](https://www.postech.ac.kr/eng/)
+* 2020.9 - present, Director, [the BK21 center for AI](http://ai.postech.ac.kr/sub0801), POSTECH
 * 2021.9 - 2023.8, Vice President of Office of Academic Information Affairs, POSTECH
-* 2003.3 - 2013.7, Associate Professor (Tenured), Computer Engineering Department, Kyungpook National University.
+* 2003.3 - 2013.7, Associate Professor (Tenured), Computer Engineering Department, [Kyungpook National University](https://en.knu.ac.kr/).
 * 2008.1 - 2012.8, Director, Institute of IT-Gifted Youth, Kyungpook National University.
-* 2005.8 - 2006.8, Post-Doctoral Fellow, IBM Almaden Research Center
+* 2005.8 - 2006.8, Post-Doctoral Fellow, [IBM Almaden Research Center](https://research.ibm.com/labs/almaden)
 (worked on progressive optimization in the parallel DB2 DBMS).
-* 2002.9 - 2003.2, Research Professor, Advanced Information Technology Research Center, KAIST.
-* 2002.7, Visiting Scholar, Software Technology Lab, HP Labs.
+* 2002.9 - 2003.2, Research Professor, Advanced Information Technology Research Center, [KAIST](https://www.kaist.ac.kr/en/).
+* 2002.7, Visiting Scholar, Software Technology Lab, [HP Labs](https://www.hpl.hp.com/).
 * 2001.9 - 2002.8, Post-Doctoral Fellow, Advanced Information Technology Research Center, KAIST.
 * 2001.7 - 2001.8, Visiting Student, Software Technology Lab, HP Labs.
-* 2000.7 - 2000.8, Visiting Student, Dept. Computer Science, Stanford University, California, U.S.A.
+* 2000.7 - 2000.8, Visiting Student, [Dept. Computer Science, Stanford University](https://cs.stanford.edu/), California, U.S.A.
 * 1999.7 - 1999.8, Visiting Student, Dept. Computer Science, Stanford University, California, U.S.A.
 * 1997.7 - 1997.8, Visiting Student, Dept. Computer Science, Stanford University, California, U.S.A.
 
@@ -35,35 +35,35 @@ Professional Activities
 ======
 
 ## Endowment/Steering Members
-* Trustee: The VLDB Endowment, 2022 - 2027
+* Trustee: [The VLDB Endowment](https://vldb.org/), 2022 - 2027
 
 ## General Members
-* Member: The National Academy of Engineering of Korea, 2026 - 2028
+* Member: [The National Academy of Engineering of Korea](https://www.naek.or.kr/eng/main/main.do), 2026 - 2028
 
 ## Journal Editors ##
-* Associate Editor, ACM SIGMOD 2027, 2025.6 - 2027.6
-* Associate Editor, PVLDB 2026, 2025.4 - 2026.3
+* Associate Editor, [ACM SIGMOD 2027](https://sigmod.org/), 2025.6 - 2027.6
+* Associate Editor, [PVLDB 2026](https://vldb.org/pvldb/), 2025.4 - 2026.3
 * Associate Editor, [PVLDB 2023](http://vldb.org/pvldb/vol16-review-board/), 2022.4 - 2023.3
 * Associate Editor, [SIGMOD RECORD](https://sigmodrecord.org/), 2021.7 - Present
 * Associate Editor, [PVLDB 2022](http://vldb.org/pvldb/vol15-review-board/), 2021.4 - 2022.3
 * Associate Editor, [VLDB Journal](https://www.springer.com/journal/778), 2015.9 - 2022.9
 * Associate Editor, [PVLDB 2018](http://vldb2018.lncc.br/conference-officers.html), 2017.4 - 2018.7
 * Associate Editor, [Information Sciences](https://www.journals.elsevier.com/information-sciences/editorial-board), 2013 - 2023.9
-* Associate Editor, IEEE Transactions on Knowledge and Data Engineering, 2009 - 2013
-* Associate Editor, Journal of Computing Science and Engineering (JCSE), 2007 - Present
-* Associate Editor, IEICE Transactions on Information and Systems, 2007 - 2011.5
-* Special Guest Editor, Distributed and Parallel Databases, 2016.7 - 2017.4
+* Associate Editor, [IEEE Transactions on Knowledge and Data Engineering](https://www.computer.org/csdl/journal/tk), 2009 - 2013
+* Associate Editor, [Journal of Computing Science and Engineering (JCSE)](http://jcse.kiise.org/), 2007 - Present
+* Associate Editor, [IEICE Transactions on Information and Systems](https://search.ieice.org/), 2007 - 2011.5
+* Special Guest Editor, [Distributed and Parallel Databases](https://link.springer.com/journal/10619), 2016.7 - 2017.4
 * Editorial Board Member, International Journal for Infonomics, 2003 – Present
 * Editorial Board Member, KIISE Computing Practices and Letters, 2011 - Present
 
 ## Organizers ##
-* General Co-Chair, the 54th ACM International Conference on Management of Data (SIGMOD), Seoul, Korea, June 2028
-* Senior Program Committee Member, the 29th International Conference on Extending Database Technology (EDBT), Tampere, Finland, March 2026
-* Ph.D Workshop Chair, the 50th International Conference on Very Large Databases (VLDB), Guangzhou, China, August 2024
+* General Co-Chair, the 54th ACM International Conference on Management of Data ([SIGMOD](https://sigmod.org/)), Seoul, Korea, June 2028
+* Senior Program Committee Member, the 29th International Conference on Extending Database Technology ([EDBT](https://edbt.org/)), Tampere, Finland, March 2026
+* Ph.D Workshop Chair, the 50th International Conference on Very Large Databases ([VLDB](https://vldb.org/)), Guangzhou, China, August 2024
 * PC Co-Chair, the 28th International Conference on Database System for Advanced Applications (DASFAA), China, April 2023
 *	Area Chair, the 39th IEEE International Conference on Data Engineering (ICDE), Ottawa, Canada, July 2023
 *	Tutorial Co-Chair, the 39th IEEE International Conference on Data Engineering (ICDE), Ottawa, Canada, July 2023
-* Vice Program Chair, the 2022 IEEE International Conference on Big Data (BigData), Osaka, Japan, December 2022
+* Vice Program Chair, the 2022 IEEE International Conference on Big Data ([BigData](https://bigdataieee.org/)), Osaka, Japan, December 2022
 * Demo Co-Chair, the 26th International Conference on Database Systems for Advanced Applications (DASFAA), Taiwan, April 2021
 * Senior Program Committee Member, the 28th ACM International Conference on Information and Knowledge Management (CIKM), Beijing, China, November 2019
 * PC Area Vice Chair, the 35th IEEE International Conference on Data Engineering (ICDE), Macau SAR, China, April 2019
@@ -88,24 +88,24 @@ Professional Activities
 
 Selected PC Memberships
 ======
-* SIGMOD: 2026, 2025, 2024, 2023, 2022, 2021, 2018, 2016, 2014, 2013, 2012, 2010 (demo)
-* VLDB: 2025, 2021, 2020, 2019, 2016, 2015, 2014, 2010, 2010 (demo), 2009
-* KDD: 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014
+* [SIGMOD](https://sigmod.org/): 2026, 2025, 2024, 2023, 2022, 2021, 2018, 2016, 2014, 2013, 2012, 2010 (demo)
+* [VLDB](https://vldb.org/): 2025, 2021, 2020, 2019, 2016, 2015, 2014, 2010, 2010 (demo), 2009
+* [KDD](https://kdd.org/): 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014
 * ICDE: 2022, 2021, 2019 (industrial), 2014, 2012, 2011, 2010, 2003
-* EDBT: 2027, 2018, 2017
-* WWW: 2019, 2013, 2012, 2011
+* [EDBT](https://edbt.org/): 2027, 2018, 2017
+* [WWW](https://thewebconf.org/): 2019, 2013, 2012, 2011
 * CIKM: 2016, 2013 (demo), 2012, 2011,2009
-* ACL: 2025
-* EMNLP: 2025
-* NeurIPS: 2026
-* ICML: 2026
+* [ACL](https://www.aclweb.org/): 2025
+* [EMNLP](https://aclanthology.org/venues/emnlp/): 2025
+* [NeurIPS](https://nips.cc/): 2026
+* [ICML](https://icml.cc/): 2026
 
 Keynote Speeches
 ======
 * The Long Journey from Subgraphs to Autonomous Agents: Evaluation of Graph Intelligence, the 31st International Conference on Database Systems for Advanced Applications (DASFAA), Jeju, Korea, April 29, 2026.
 * The Long Journey from Subgraphs to Autonomous Agents: Evaluation of Graph Intelligence, Data Intelligence Workshop, Korea, April 26, 2026.
 * Directions for Korea-US AI Cooperation through the Global AI Frontier Lab, Global AI Frontier Lab, New York, NY, Sep. 24, 2024
-* Natural Language Exploration with Relational Databases in Chatbot, the 47th ACM International Conference on Management of Data (ACM SIGMOD 2021), Shannxi, China, June 24, 2021 (mini keynote)
+* Natural Language Exploration with Relational Databases in Chatbot, the 47th ACM International Conference on Management of Data ([ACM SIGMOD 2021](https://sigmod.org/)), Shannxi, China, June 24, 2021 (mini keynote)
 * Big Graph Data Processing, the 19th International Conference on Database Systems for Advanced Applications (DASFAA), Bali, Indonesia, April 21, 2014
 
 Research Interests
