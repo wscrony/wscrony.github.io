@@ -12,10 +12,10 @@ $doc-font-size              : 16;
 $paragraph-indent           : false; // true, false (default)
 $indent-var                 : 1.3em;
 
-/* system typefaces */
-$serif                      : Georgia, Times, serif;
-$sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
-$monospace                  : Monaco, Consolas, "Lucida Console", monospace;
+/* system typefaces — modern academic stack */
+$serif                      : "IBM Plex Serif", "Source Serif Pro", Georgia, Cambria, "Times New Roman", Times, serif;
+$sans-serif                 : "Inter", "Pretendard", "Pretendard Variable", -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+$monospace                  : "JetBrains Mono", "SF Mono", Menlo, Monaco, Consolas, "Liberation Mono", monospace;
 
 /* sans serif typefaces */
 $sans-serif-narrow          : $sans-serif;
@@ -29,42 +29,45 @@ $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
 
 $global-font-family         : $sans-serif;
-$header-font-family         : $sans-serif;
-$caption-font-family        : $serif;
+$header-font-family         : $serif;
+$caption-font-family        : $sans-serif;
 
-/* type scale */
-$type-size-1                : 2.441em;  // ~39.056px
-$type-size-2                : 1.953em;  // ~31.248px
-$type-size-3                : 1.563em;  // ~25.008px
-$type-size-4                : 1.25em;   // ~20px
-$type-size-5                : 1em;      // ~16px
-$type-size-6                : 0.75em;   // ~12px
-$type-size-7                : 0.6875em; // ~11px
-$type-size-8                : 0.625em;  // ~10px
+/* type scale — modular 1.250 (major third) */
+$type-size-1                : 2.488em;  // ~39.8px display
+$type-size-2                : 1.953em;  // ~31.2px
+$type-size-3                : 1.563em;  // ~25.0px section heading
+$type-size-4                : 1.25em;   // ~20.0px subheading / lead
+$type-size-5                : 1em;      // ~16.0px body
+$type-size-6                : 0.85em;   // ~13.6px small body / sidebar
+$type-size-7                : 0.75em;   // ~12.0px label / meta
+$type-size-8                : 0.6875em; // ~11.0px micro
 
 
 /*
    Colors
    ========================================================================== */
 
-$gray                       : #7a8288;
-$dark-gray                  : mix(#000, $gray, 40%);
-$darker-gray                : mix(#000, $gray, 60%);
-$light-gray                 : mix(#fff, $gray, 50%);
-$lighter-gray               : mix(#fff, $gray, 90%);
+/* Modern neutral scale — slate (cooler than gray, better contrast) */
+$gray                       : #64748b;  // slate-500
+$dark-gray                  : #334155;  // slate-700 (text)
+$darker-gray                : #0f172a;  // slate-900 (headings)
+$light-gray                 : #cbd5e1;  // slate-300
+$lighter-gray               : #e2e8f0;  // slate-200 (borders)
 
 $body-color                 : #fff;
-$background-color           : #fff;
-$code-background-color      : #fafafa;
+$background-color           : #ffffff;
+$code-background-color      : #f8fafc;  // slate-50
 $code-background-color-dark : $light-gray;
 $text-color                 : $dark-gray;
 $border-color               : $lighter-gray;
 
-$primary-color              : #7a8288;
-$success-color              : #62c462;
-$warning-color              : #f89406;
-$danger-color               : #ee5f5b;
-$info-color                 : #52adc8;
+/* Accent — deep navy */
+$primary-color              : #0a2540;  // deep navy
+$accent-color               : #1d4ed8;  // bright link accent
+$success-color              : #16a34a;
+$warning-color              : #f59e0b;
+$danger-color               : #dc2626;
+$info-color                 : #2563eb;
 
 /* brands */
 $behance-color              : #1769FF;
@@ -90,11 +93,11 @@ $xing-color                 : #006567;
 
 
 /* links */
-$link-color                 : $info-color;
-$link-color-hover           : mix(#000, $link-color, 25%);
-$link-color-visited         : mix(#fff, $link-color, 25%);
-$masthead-link-color        : $primary-color;
-$masthead-link-color-hover  : mix(#000, $primary-color, 25%);
+$link-color                 : $accent-color;
+$link-color-hover           : $primary-color;
+$link-color-visited         : mix(#000, $accent-color, 15%);
+$masthead-link-color        : $darker-gray;
+$masthead-link-color-hover  : $accent-color;
 
 
 /*
@@ -146,8 +149,8 @@ $susy: (
    Other
    ========================================================================== */
 
-$border-radius              : 4px;
-$box-shadow                 : 0 1px 1px rgba(0, 0, 0, 0.125);
+$border-radius              : 6px;
+$box-shadow                 : 0 1px 2px rgba(15, 23, 42, 0.06), 0 1px 3px rgba(15, 23, 42, 0.04);
 $navicon-width              : 28px;
 $navicon-height             : 4px;
-$global-transition          : all 0.2s ease-in-out;
+$global-transition          : all 0.18s ease-in-out;

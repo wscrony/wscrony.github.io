@@ -83,11 +83,13 @@
   }
 
   img {
-    max-width: 175px;
-    border-radius: 50%;
+    max-width: 200px;
+    border-radius: 8px;
+    box-shadow: 0 4px 14px rgba(15, 23, 42, 0.08), 0 1px 2px rgba(15, 23, 42, 0.04);
+    transition: $global-transition;
 
     @include breakpoint($large) {
-      padding: 5px;
+      padding: 0;
       border: 1px solid $border-color;
     }
   }
@@ -117,16 +119,23 @@
   }
 }
 .sidebar .author__name {
-  font-family: $sans-serif;
-  font-size: $type-size-5;
+  font-family: $header-font-family;
+  font-size: $type-size-4;
+  font-weight: 600;
+  color: $darker-gray;
+  letter-spacing: -0.012em;
+  line-height: 1.2;
 }
 
 .author__bio {
   margin: 0;
+  color: $gray;
+  font-size: $type-size-6;
+  line-height: 1.5;
 
   @include breakpoint($large) {
-    margin-top: 10px;
-    margin-bottom: 20px;
+    margin-top: 8px;
+    margin-bottom: 18px;
   }
 }
 
@@ -222,16 +231,30 @@
 
   a {
     display: block;
-    margin-bottom: 5px;
-    padding-right: 5px;
-    padding-top: 2px;
-    padding-bottom: 2px;
-    color: inherit;
-    font-size: $type-size-5;
+    margin-bottom: 4px;
+    padding: 4px 6px;
+    margin-left: -6px;
+    color: $dark-gray;
+    font-family: $sans-serif;
+    font-size: $type-size-6;
+    font-weight: 500;
     text-decoration: none;
+    background-image: none;
+    border-radius: 4px;
+    transition: $global-transition;
+
+    i, .ai {
+      color: $primary-color;
+      width: 1.1em;
+    }
 
     &:hover {
-      text-decoration: underline;
+      color: $accent-color;
+      background-color: rgba(29, 78, 216, 0.06);
+
+      i, .ai {
+        color: $accent-color;
+      }
     }
   }
 }

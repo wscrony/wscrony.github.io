@@ -5,9 +5,9 @@
 #main {
   @include container;
   @include clearfix;
-  margin-top: 2em;
-  padding-left: 1em;
-  padding-right: 1em;
+  margin-top: 3em;
+  padding-left: 1.25em;
+  padding-right: 1.25em;
   animation: intro 0.3s both;
   animation-delay: 0.35s;
 
@@ -36,7 +36,13 @@
 
 .page__title {
   margin-top: 0;
-  line-height: 1;
+  margin-bottom: 0.4em;
+  font-family: $header-font-family;
+  font-weight: 600;
+  font-size: $type-size-1;
+  line-height: 1.1;
+  letter-spacing: -0.02em;
+  color: $darker-gray;
 
   & + .page__meta {
     margin-top: -0.5em;
@@ -46,17 +52,46 @@
 .page__lead {
   font-family: $global-font-family;
   font-size: $type-size-4;
+  color: $gray;
+  font-weight: 400;
 }
 
 .page__content {
 
   h2 {
-    padding-bottom: 0.5em;
+    margin-top: 2.2em;
+    padding-bottom: 0.4em;
+    font-size: $type-size-3;
     border-bottom: 1px solid $border-color;
+    position: relative;
+
+    &:after {
+      content: "";
+      position: absolute;
+      left: 0;
+      bottom: -1px;
+      width: 48px;
+      height: 2px;
+      background: $primary-color;
+    }
+  }
+
+  h3 {
+    margin-top: 1.8em;
+    color: $primary-color;
   }
 
   p, li, dl {
     font-size: 1em;
+    color: $dark-gray;
+  }
+
+  li {
+    margin-bottom: 0.4em;
+  }
+
+  strong {
+    color: $darker-gray;
   }
 
   /* paragraph indents */
@@ -73,10 +108,17 @@
   }
 
   a {
-    text-decoration: underline;
+    text-decoration: none;
+    color: $link-color;
+    background-image: linear-gradient(currentColor, currentColor);
+    background-size: 0 1px;
+    background-position: 0 100%;
+    background-repeat: no-repeat;
+    transition: background-size 0.18s ease, color 0.18s ease;
 
     &:hover {
-      text-decoration: underline;
+      color: $link-color-hover;
+      background-size: 100% 1px;
 
       img {
         box-shadow: 0 0 10px rgba(#000, 0.25);
