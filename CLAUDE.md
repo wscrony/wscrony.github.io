@@ -21,6 +21,7 @@ POSTECH 한욱신 교수의 개인 홈페이지 (Academic Pages / Minimal Mistak
   - ACL, EMNLP, NeurIPS, ICML, ICLR 등 ML/NLP 계열: **Reviewer**
 - VLDB Endowment Trustee 등 임기가 있는 항목은 가장 최신 임기 표기에 맞춘다.
 - 새 publication 추가 시 about.md(역연대순 번호 없음) ↔ cv-short(번호 자동) ↔ cv-full(번호 자동) 세 곳 모두 같은 entry로 반영.
+- **`resume/`의 두 CV 파일(`cv-short.docx`, `cv-full.docx`)의 모든 콘텐츠는 영어로만 작성한다.** about.md에 한글 항목이 있더라도(예: `논문공헌상 SILVER`) CV에 넣을 때는 영어로 번역한다 (예: `Silver Paper Contribution Award, KIISE`).
 
 ### 작업 팁
 
