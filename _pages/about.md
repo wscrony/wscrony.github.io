@@ -88,7 +88,7 @@ Professional Activities
 
 Selected PC Memberships
 ======
-* [SIGMOD](https://sigmod.org/): 2026, 2025, 2024, 2023, 2022, 2021, 2018, 2016, 2014, 2013, 2012, 2010 (demo)
+* [SIGMOD](https://sigmod.org/): 2027 (industry), 2026, 2025, 2024, 2023, 2022, 2021, 2018, 2016, 2014, 2013, 2012, 2010 (demo)
 * [VLDB](https://vldb.org/): 2025, 2021, 2020, 2019, 2016, 2015, 2014, 2010, 2010 (demo), 2009
 * [KDD](https://kdd.org/): 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014
 * ICDE: 2022, 2021, 2019 (industrial), 2014, 2012, 2011, 2010, 2003
