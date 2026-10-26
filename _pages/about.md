@@ -93,12 +93,13 @@ Selected PC Memberships
 * [KDD](https://kdd.org/): 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014
 * ICDE: 2022, 2021, 2019 (industrial), 2014, 2012, 2011, 2010, 2003
 * [EDBT](https://edbt.org/): 2027, 2018, 2017
-* [WWW](https://thewebconf.org/): 2019, 2013, 2012, 2011
+* [WWW](https://thewebconf.org/): 2019, 2013 (demo), 2012, 2011
 * CIKM: 2016, 2013 (demo), 2012, 2011,2009
 * [ACL](https://www.aclweb.org/): 2025
 * [EMNLP](https://aclanthology.org/venues/emnlp/): 2025
 * [NeurIPS](https://nips.cc/): 2026, 2025
 * [ICML](https://icml.cc/): 2026
+* [ICLR](https://iclr.cc/): 2026, 2025
 
 Keynote Speeches
 ======
@@ -132,7 +133,7 @@ Honors
 * VLDB 2025 Distinguished Reviewer Award, 2025
 * Neurips Top Reviewer, 2025
 * POSTECH Distinguished Professor from POSTECH, 2025
-* Proud Postechchian Award in Research (Best Resercher Award) in POSTECH, 2021
+* Proud Postechchian Award in Research (Best Researcher Award) in POSTECH, 2021
 * Excellent Research Achievement Awards from POSTECH (2019, 2017)
 * Sigmod 2021 Distinguished PC member, 2021
 * VLDB Distinguished Associate Editor Award, 2018
@@ -142,12 +143,12 @@ Honors
 * Oracle External Research Office Award (unrestricted gift: $100,000), 2016
 * Oracle External Research Office Award (unrestricted gift: $90,000), 2015
 * Oracle External Research Office Award (unrestricted gift: $90,000), 2014
-* Best paper award, The Fifth International Conference on Emerging
-* Databases-Technologies,Applications, and Theory (EDB 2013), August 2013
-* 논문공헌상 SILVER, The Korean Institute of Information Scentists and Engineers, June 2012
+* Best paper award, The Fifth International Conference on Emerging Databases-Technologies, Applications, and Theory (EDB 2013), August 2013
+* 논문공헌상 SILVER, The Korean Institute of Information Scientists and Engineers, June 2012
+* Best Teaching Awards from Kyungpook National University (2011, 2010)
 * VLDB 2010, selected as best of VLDB 2010 (iGraph paper)
 * ACM CIKM Distinguished Service Award, 2009
-* Best Demostration Award: IEEE Int'l Conf. on Data Engineering (ICDE), Tokyo, Japan, Apr. 2005
+* Best Demonstration Award: IEEE Int'l Conf. on Data Engineering (ICDE), Tokyo, Japan, Apr. 2005
 * Supervision for Samsung Human Tech Thesis Awards
     * JaeHwa Kim, 2005 (Silver Medal, Ranked 1st in Computer Science)
     * Jinsoo Lee, 2007 (Silver Medal, Ranked 1st in Computer Science)
