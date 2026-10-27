@@ -36,6 +36,7 @@ Professional Activities
 
 ## Endowment/Steering Members
 * Trustee: [The VLDB Endowment](https://vldb.org/trustees.html), 2022 - 2027
+* Steering Committee Member: [International Conference on Database Systems for Advanced Applications (DASFAA)](https://www.dasfaa.net/steering_members.htm), 2026 - Present
 
 ## General Members
 * Member: [The National Academy of Engineering of Korea](https://www.naek.or.kr/eng/main/main.do), 2026 - 2028
