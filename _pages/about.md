@@ -115,6 +115,7 @@ Research Interests
 1. Distributed Graph Databases
 2. Natural Language to SQL (NL2SQL)
 2. Self-Driving DBMSs
+2. Retrieval Augmented Generation (RAG)
 2. Big (Graph) Data Management and Analytics
 2. Data Mining
 3. Cloud Databases
